@@ -1,0 +1,40 @@
+
+# LangChain and LLM Providers
+langchain>=0.1.0
+langchain-google-genai>=1.0.0
+langchain-core>=0.1.0
+
+# Google Generative AI
+google-generativeai>=0.3.0
+
+# Groq
+groq>=0.4.0
+
+# Anthropic (if needed)
+anthropic>=0.39.0
+
+# PDF Generation
+reportlab>=4.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# YAML Configuration
+PyYAML>=6.0
+
+# Path utilities (built-in with Python 3.4+, but good to specify for older versions)
+pathlib2>=2.3.7; python_version < '3.4'
+
+# Optional: Data Processing (useful for analysis and evaluation)
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optional: JSON Schema Validation (for prompt output validation)
+jsonschema>=4.17.0
+
+# Optional: Progress Tracking
+tqdm>=4.65.0
+
+# Optional: Additional PDF tools
+PyPDF2>=3.0.0
+fpdf2>=2.7.0
