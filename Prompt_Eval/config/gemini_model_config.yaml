@@ -1,0 +1,11 @@
+model:
+  provider: gemini
+  name: gemini-2.5-pro              
+  temperature: 0.89                
+  max_output_tokens: 4096           
+  top_p: 0.95                        
+  stop_sequences: []           
+
+paths:
+  prompts_root: src/prompts
+  output_root: output/gemini

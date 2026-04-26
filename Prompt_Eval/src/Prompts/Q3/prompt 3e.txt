@@ -1,0 +1,35 @@
+3E. ReAct Prompting
+
+California 2020 Rolling Blackouts [KEY FACTS: 3,600MW peak shortfall, heat 110°F+, solar ramp-down evening, 250MW batteries, 800K affected, $1.5B]. 
+
+ReAct:
+
+THOUGHT 1: What caused the demand-supply gap?
+ACTION 1: Compare evening peak demand (heat-driven AC) vs. available supply (solar down, gas/imports).
+OBSERVATION 1: [Calculate hourly MW gap 7-9PM with timeline]
+
+THOUGHT 2: Why was storage insufficient?
+ACTION 2: Assess 250MW battery capacity vs. 3,600MW shortfall and discharge duration limits.
+OBSERVATION 2: [Quantify storage inadequacy]
+
+THOUGHT 3: What planning failures occurred?
+ACTION 3: Examine CPUC resource adequacy targets vs. actual procured capacity and forecasting errors.
+OBSERVATION 3: [Identify RA under-procurement MW]
+
+Continue 5-7 loops with timeline. Base analysis ONLY on provided facts. For each MW/cost figure: cite specific KEY FACT verbatim. If calculating: show formula. If uncertain, output 'VERIFY_SOURCE' in uncertainties array. Consider technical, market, AND institutional factors equally. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Reasoning Process (showing all THOUGHT-ACTION-OBSERVATION loops sequentially)
+3. Synthesis of Findings from Reasoning Loops
+4. Demand-Supply Gap Quantification (hourly 7-9PM)
+5. Duck Curve Impact Analysis
+6. Storage Inadequacy Assessment (250MW vs. 3,600MW need)
+7. Resource Adequacy Planning Failures
+8. Forecasting and Market Errors
+9. Root Cause Integration
+10. Storage Scaling Recommendations (MW targets, timeline)
+11. Key Lessons Learned
+12. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

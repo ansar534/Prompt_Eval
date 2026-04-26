@@ -1,0 +1,36 @@
+4E. ReAct Prompting
+
+India 2012 Grid Collapse [KEY FACTS: 670M affected, 48,000MW July 30 then 62,000MW Day 2, interstate overdraws UP/Punjab, monsoon irrigation, 2-day cascade, $1.2B]. 
+
+ReAct:
+
+THOUGHT 1: What triggered Day 1 (July 30) collapse?
+ACTION 1: Examine state overdraw violations (UP/Punjab) exceeding scheduled allocations during peak.
+OBSERVATION 1: [Quantify MW overdraw and transmission stress]
+
+THOUGHT 2: Why did it worsen on Day 2 (July 31) to 62,000MW?
+ACTION 2: Analyze monsoon irrigation pump surge + incomplete grid restoration creating vulnerability.
+OBSERVATION 2: [Calculate demand spike + reduced margin]
+
+THOUGHT 3: How did 3 regional grids cascade?
+ACTION 3: Map frequency/voltage collapse propagation across Northern-Eastern-NE interconnections with timeline.
+OBSERVATION 3: [Trace protection relay sequence]
+
+Continue 5-7 loops with Day 1 to Day 2 timeline. Base analysis ONLY on provided facts. For each MW/cost figure: cite specific KEY FACT verbatim. If calculating: show formula. If uncertain, output 'VERIFY_SOURCE' in uncertainties array. Consider technical, market, AND institutional factors equally. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Reasoning Process (showing all THOUGHT-ACTION-OBSERVATION loops sequentially)
+3. Synthesis of Findings from Reasoning Loops
+4. Day 1 Trigger Analysis: July 30, 48,000MW (state overdraws)
+5. Day 2 Escalation Analysis: July 31, 62,000MW (irrigation surge + restoration failure)
+6. Three Regional Grids Cascade Reconstruction
+7. Interstate Scheduling Discipline Failures
+8. Transmission Constraint Violations
+9. Agricultural Load Impact Assessment
+10. Root Cause Integration
+11. NLDC Protocol Recommendations
+12. Key Lessons Learned
+13. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

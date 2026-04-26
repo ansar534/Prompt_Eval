@@ -1,0 +1,27 @@
+3B. Tree-of-Thought (ToT)
+
+California 2020 Rolling Blackouts [KEY FACTS: 3,600MW peak shortfall, heat wave 110°F+, solar drop 7-9PM (duck curve), battery 250MW only, gas plant outages, import limits, 800K customers, $1.5B]. 
+
+Explore THREE paths: 
+PATH A) Renewable integration hypothesis (solar duck curve + insufficient storage)
+PATH B) Planning failure hypothesis (RA under-procurement + forecasting)
+PATH C) Market structure hypothesis (import dependency + day-ahead errors)
+
+Calculate MW contribution per path, evidence strength (0-1.0), contradictions. Synthesize most probable multi-factor explanation with quantification. 
+
+Base analysis ONLY on provided facts. For each MW figure: cite which KEY FACT supports it with verbatim quote. If extrapolating: show calculation formula. If KEY FACTS conflict: flag in 'uncertainties' with math. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Path A Analysis: Renewable Integration Challenges (duck curve, 250MW storage vs. need)
+3. Path B Analysis: Resource Adequacy Planning Failures (RA procurement gaps)
+4. Path C Analysis: Market Structure Issues (imports, day-ahead forecasting)
+5. Cross-Path Comparison and Contradictions
+6. Synthesized Multi-Factor Explanation (with evidence weighting)
+7. Evening Peak Timeline (7-9PM solar ramp-down)
+8. Storage Gap Analysis (MW requirements vs. availability)
+9. Market Design Recommendations
+10. Key Lessons Learned
+11. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

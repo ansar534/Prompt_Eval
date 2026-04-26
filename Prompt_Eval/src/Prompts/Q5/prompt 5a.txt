@@ -1,0 +1,30 @@
+Query 5: UK 2019 Near-Miss
+
+5A. Chain-of-Thought (CoT)
+
+UK 2019 Near-Miss [KEY FACTS: Aug 9 lightning strike, 1,378MW generation lost in 5min (Hornsea offshore wind 737MW + Little Barford gas 641MW both tripped), frequency dropped to 48.8Hz (safe limit 49.5Hz), 1.1M customers lost power 15-45min, National Grid paid £60M constraint costs that day, exposed low-inertia grid risks]. 
+
+Analyze step-by-step: 
+Step 1) Identify dual generation trip causes and MW sequence with timestamps. 
+Step 2) Calculate frequency nadir 48.8Hz and rate-of-change-of-frequency (RoCoF) limits exceeded. 
+Step 3) Quantify under-frequency load shedding activation and customer impact. 
+Step 4) Assess low-inertia system vulnerability with wind penetration data. 
+Step 5) Synthesize dynamic stability and response service gaps. 
+
+Base analysis ONLY on provided facts. For each MW/Hz figure: cite specific KEY FACT verbatim in 'evidence' field. If calculating: show formula. If uncertain about any metric, output 'VERIFY_SOURCE' in uncertainties array. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Initial Event: Lightning Strike and Dual Generation Trip
+3. 5-Minute Loss Sequence (Hornsea 737MW + Little Barford 641MW)
+4. Frequency Response Analysis (48.8Hz nadir, RoCoF calculation)
+5. Under-Frequency Load Shedding Assessment (1.1M customers, 15-45min)
+6. Low-Inertia System Vulnerability
+7. National Grid Constraint Costs (£60M)
+8. Dynamic Stability and Response Service Gaps
+9. Enhanced Frequency Response Recommendations
+10. Grid Code Compliance Assessment
+11. Key Lessons Learned
+12. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

@@ -1,0 +1,29 @@
+5B. Tree-of-Thought (ToT)
+
+UK 2019 Near-Miss [KEY FACTS: 1,378MW lost in 5min (Hornsea wind 737MW + Little Barford gas 641MW), frequency 48.8Hz (49.5Hz safe limit), 1.1M customers 15-45min, £60M constraints, Aug 9 lightning, low-inertia concerns]. 
+
+Explore THREE paths: 
+PATH A) Protection setting hypothesis (generation trip sensitivity to disturbances)
+PATH B) Frequency response hypothesis (insufficient fast reserves + low inertia)
+PATH C) Renewable integration hypothesis (high wind penetration + RoCoF limits)
+
+Calculate MW/Hz contribution per path, evidence strength (0-1.0). Synthesize multi-factor near-miss explanation with quantified stability margins. 
+
+Base analysis ONLY on provided facts. For each MW/Hz figure: cite which KEY FACT supports it with verbatim quote. If extrapolating: show calculation formula. If KEY FACTS conflict: flag in 'uncertainties' with math. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Path A Analysis: Protection Settings and Trip Sensitivity (RoCoF thresholds)
+3. Path B Analysis: Frequency Response Inadequacy (reserves vs. Grid Code)
+4. Path C Analysis: High Renewable Penetration (wind, low-inertia risks)
+5. Cross-Path Comparison and Contradictions
+6. Synthesized Multi-Factor Explanation (with evidence weighting)
+7. 5-Minute Event Timeline (1,378MW loss sequence)
+8. Frequency Excursion Analysis (48.8Hz nadir, stability margins)
+9. Load Shedding Assessment (1.1M customers)
+10. Inertia vs. Renewable Penetration Trade-offs
+11. Enhanced Frequency Response Procurement Recommendations
+12. Key Lessons Learned
+13. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

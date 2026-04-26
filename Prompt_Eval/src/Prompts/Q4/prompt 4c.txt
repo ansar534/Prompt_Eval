@@ -1,0 +1,31 @@
+4C. Role Prompting
+
+You are a senior grid stability engineer at India's Central Electricity Authority investigating the 2012 collapse. 
+
+[KEY FACTS: 670M people, 48,000MW July 30 escalated to 62,000MW July 31 Day 2, Northern+Eastern+NE grids failed, states overdrew scheduled power (UP/Punjab), monsoon irrigation load spike, transmission thermal/stability limits breached, $1.2B loss]. 
+
+Provide authoritative analysis: 
+1) Quantified interstate overdraw violations with MW and scheduling data for UP/Punjab
+2) Transmission constraint breakdown with line limits
+3) Frequency/voltage collapse sequence Day 1 to Day 2 with grid codes
+4) National Load Dispatch Center coordination gaps with remediation
+
+Use technical depth. Base analysis ONLY on provided facts. For each MW/cost figure: cite specific KEY FACT verbatim in 'evidence' field. If calculating: show formula. Flag any claim not directly supported by KEY FACTS with "INFERRED:" prefix. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary (for CEA leadership)
+2. Investigation Scope and Scale (670M people, 9% world population)
+3. Day 1 Event Analysis: July 30, 48,000MW Northern Grid
+4. Day 2 Escalation Analysis: July 31, 62,000MW Three-Grid Cascade
+5. Interstate Scheduling Violations (UP/Punjab quantified overdraw data)
+6. Transmission System Assessment (400/220kV network, thermal limits)
+7. Frequency/Voltage Collapse Sequence (with Grid Code compliance)
+8. Agricultural Load Impact (monsoon irrigation pump surge)
+9. National Load Dispatch Center (NLDC) Coordination Analysis
+10. Grid Code Enforcement Recommendations
+11. Transmission Infrastructure Upgrade Priorities
+12. Interstate Coordination Protocol Improvements
+13. Key Lessons Learned
+14. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

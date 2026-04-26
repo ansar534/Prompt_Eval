@@ -1,0 +1,33 @@
+5C. Role Prompting
+
+You are a National Grid ESO frequency control specialist analyzing the Aug 9, 2019 near-miss. 
+
+[KEY FACTS: Lightning caused 1,378MW loss in 5min (Hornsea offshore wind 737MW + Little Barford gas 641MW simultaneous trips), frequency dropped to 48.8Hz (safe limit 49.5Hz, statutory 49.2Hz), 1.1M customers via under-frequency load shedding 15-45min, £60M constraint costs, exposed low-inertia system with high renewables]. 
+
+Provide specialist analysis: 
+1) Dual-trip sequence with protection relay settings and RoCoF thresholds within 5-minute window
+2) Frequency response activation timeline with MW/Hz performance vs. Grid Code
+3) Low-inertia impact quantification with synchronous vs. converter-based generation
+4) Enhanced frequency response procurement recommendations with technical specs
+
+Base analysis ONLY on provided facts. For each MW/Hz figure: cite specific KEY FACT verbatim in 'evidence' field. If calculating: show formula. Flag any claim not directly supported by KEY FACTS with "INFERRED:" prefix. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary (for National Grid ESO leadership)
+2. Event Overview: Aug 9 Lightning Strike
+3. Dual Generation Trip Analysis (Hornsea 737MW wind + Little Barford 641MW gas)
+4. Protection Relay Settings Assessment (RoCoF thresholds, trip logic)
+5. 5-Minute Timeline (MW loss progression, frequency drop)
+6. Frequency Response Performance (vs. Grid Code requirements)
+7. Rate-of-Change-of-Frequency (RoCoF) Analysis
+8. Frequency Nadir Assessment (48.8Hz vs. 49.5Hz safe limit, 49.2Hz statutory)
+9. Under-Frequency Load Shedding (1.1M customers, relay activation)
+10. Low-Inertia System Vulnerability (synchronous vs. converter-based generation)
+11. Constraint Cost Analysis (£60M operational costs)
+12. Enhanced Frequency Response (EFR) Procurement Specifications
+13. Grid Code Modifications Recommended
+14. Fast Frequency Response Service Requirements
+15. Key Lessons Learned
+16. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

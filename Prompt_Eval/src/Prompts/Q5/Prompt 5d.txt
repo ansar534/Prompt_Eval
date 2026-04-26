@@ -1,0 +1,35 @@
+5D. Few-Shot Prompting
+
+Analyze using this pattern:
+
+EXAMPLE 1 - South Australia 2016 Storm: 
+Factors: [Transmission towers collapsed, wind farms tripped on RoCoF, system black]. 
+Impact: 1.7M customers, 850MW, 6hrs-2wks. 
+Lessons: [Grid-forming inverters, RoCoF withstand, batteries].
+
+EXAMPLE 2 - Ireland 2019 May: 
+Factors: [Synchronous generation trip, low inertia, frequency to 49.2Hz]. 
+Impact: Near-miss, load shedding avoided. 
+Lessons: [Synchronous compensators, fast frequency response].
+
+NOW ANALYZE: UK 2019 Near-Miss [KEY FACTS: 1,378MW lost in 5min (Hornsea 737MW wind + Little Barford 641MW gas), 48.8Hz frequency nadir, 1.1M customers, £60M, lightning trigger, low-inertia grid]. 
+
+Follow pattern with MW/Hz-quantified stability and response service lessons. Base analysis ONLY on provided facts. For each MW/Hz figure: cite which KEY FACT supports it. If extrapolating: show calculation. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Comparative Context (South Australia 2016 and Ireland 2019 May)
+3. UK Event Analysis Following Example Pattern:
+   - Primary Factors (with MW/Hz quantification)
+   - Impact Assessment (customers affected, frequency excursion)
+   - Lessons Learned (specific, actionable)
+4. Cross-Event Pattern Recognition (RoCoF, low-inertia, wind generation)
+5. 5-Minute Event Timeline (1,378MW dual-trip)
+6. Frequency Excursion Comparison (UK 48.8Hz vs. Ireland 49.2Hz)
+7. Low-Inertia Challenges Across Jurisdictions
+8. RoCoF Withstand Requirements
+9. Fast Frequency Response and Grid-Forming Inverters
+10. Synthesized Recommendations (storage, synchronous compensators)
+11. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

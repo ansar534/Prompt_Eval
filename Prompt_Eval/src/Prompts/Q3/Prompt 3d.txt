@@ -1,0 +1,33 @@
+3D. Few-Shot Prompting
+
+Analyze using this pattern:
+
+EXAMPLE 1 - Belgium 2018 Heatwave: 
+Factors: [4 nuclear reactors offline maintenance, solar insufficient evening, imports maxed]. 
+Impact: 1,400MW deficit, near-miss, prices €300/MWh. 
+Lessons: [Maintenance scheduling, cross-border capacity].
+
+EXAMPLE 2 - Japan 2011 Post-Fukushima: 
+Factors: [Nuclear offline, summer AC peak, LNG supply limits]. 
+Impact: 5,000MW deficit, rolling blackouts 6 months. 
+Lessons: [Demand response, distributed generation].
+
+NOW ANALYZE: California 2020 Rolling Blackouts [KEY FACTS: 3,600MW peak shortfall, 110°F heat, solar evening drop, 250MW batteries, gas outages, 800K customers, $1.5B, RA planning failure]. 
+
+Follow structure with MW-quantified renewable integration and planning lessons. Base analysis ONLY on provided facts. For each MW figure: cite which KEY FACT supports it. If extrapolating: show calculation. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Comparative Context (Belgium 2018 and Japan 2011 parallels)
+3. California Event Analysis Following Example Pattern:
+   - Primary Factors (with MW quantification)
+   - Impact Assessment (customers, economic cost)
+   - Lessons Learned (specific, actionable)
+4. Cross-Event Pattern Recognition (heat, solar/nuclear gaps, storage)
+5. Duck Curve and Evening Peak Timeline
+6. Renewable Integration Challenges Across Jurisdictions
+7. Storage and Flexibility Requirements
+8. Synthesized Recommendations
+9. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

@@ -1,0 +1,29 @@
+3C. Role Prompting
+
+You are a CAISO grid operations director with expertise in renewable integration and resource adequacy. 
+
+California 2020 Rolling Blackouts [KEY FACTS: 3,600MW peak shortfall Aug 14-15, heat 110°F+, evening solar ramp-down during peak, battery storage 250MW statewide, gas outages, import constraints, 800K affected, $1.5B loss, exposed RA planning gaps]. 
+
+Provide director-level analysis: 
+1) Quantified duck curve impact with hourly MW profile during evening
+2) Resource adequacy deficiencies vs. CPUC targets
+3) Day-ahead forecasting errors with CAISO data
+4) Storage/flexibility recommendations with MW targets
+
+Use operational precision. Base analysis ONLY on provided facts. For each MW/cost figure: cite specific KEY FACT verbatim in 'evidence' field. If calculating: show formula. Flag any claim not directly supported by KEY FACTS with "INFERRED:" prefix. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary (for CAISO Board)
+2. Event Overview and Operational Context
+3. Duck Curve Analysis (hourly MW profile, solar ramp-down impact)
+4. Resource Adequacy Assessment (CPUC targets vs. actual procurement)
+5. Day-Ahead Forecasting Performance (errors and consequences)
+6. Import Coordination and Constraints
+7. Battery Storage Gap Analysis (250MW vs. requirements)
+8. Gas Plant Performance During Heat Event
+9. Operational Recommendations (storage, flexible capacity targets)
+10. Market Design Improvements
+11. 5-Year Storage Procurement Roadmap
+12. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

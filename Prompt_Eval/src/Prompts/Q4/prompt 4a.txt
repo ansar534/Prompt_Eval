@@ -1,0 +1,30 @@
+Query 4: India 2012 Grid Collapse
+
+4A. Chain-of-Thought (CoT)
+
+India 2012 Grid Collapse [KEY FACTS: 670M people affected (9% world population), 48,000MW Northern Grid collapse July 30, expanded to 62,000MW July 31 Day 2 (Northern+Eastern+Northeastern grids), agricultural demand surge (monsoon irrigation pumps), weak transmission, interstate overdraws exceeded limits (UP/Punjab states), economic loss $1.2B]. 
+
+Analyze step-by-step: 
+Step 1) Identify trigger conditions and state-level overdraws. 
+Step 2) Calculate transmission constraint violations with MW flows. 
+Step 3) Quantify frequency/voltage collapse progression across regions with Day 1 to Day 2 timeline. 
+Step 4) Assess agricultural demand surge contribution. 
+Step 5) Synthesize coordination and infrastructure gaps with evidence. 
+
+Base analysis ONLY on provided facts. For each MW/cost figure: cite specific KEY FACT verbatim in 'evidence' field. If calculating: show formula. If uncertain about any metric, output 'VERIFY_SOURCE' in uncertainties array. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Day 1 Analysis: July 30 (48,000MW Northern Grid collapse)
+3. Day 2 Escalation: July 31 (62,000MW expansion to three regional grids)
+4. Interstate Overdraw Violations (UP/Punjab specific data)
+5. Agricultural Demand Surge Assessment (monsoon irrigation impact)
+6. Transmission Infrastructure Weaknesses
+7. Frequency/Voltage Collapse Propagation
+8. Regional Grid Coordination Failures
+9. Root Cause Synthesis
+10. Infrastructure and Governance Recommendations
+11. Key Lessons Learned
+12. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

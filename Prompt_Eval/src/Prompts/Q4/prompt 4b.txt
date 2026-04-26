@@ -1,0 +1,28 @@
+4B. Tree-of-Thought (ToT)
+
+India 2012 Grid Collapse [KEY FACTS: 670M affected, 48,000MW July 30 then 62,000MW July 31 Day 2, monsoon irrigation pump surge, interstate overdraw violations (UP/Punjab states exceeded schedules), weak 400/220kV transmission, cascaded 3 regional grids]. 
+
+Explore THREE paths: 
+PATH A) Demand surge hypothesis (agricultural load + weak forecasting)
+PATH B) Transmission inadequacy hypothesis (thermal limits + stability margins)
+PATH C) Regulatory failure hypothesis (interstate discipline + frequency control)
+
+Calculate MW per path, evidence strength (0-1.0), reconcile data. Synthesize quantified multi-factor cascade explanation. 
+
+Base analysis ONLY on provided facts. For each MW figure: cite which KEY FACT supports it with verbatim quote. If extrapolating: show calculation formula. If KEY FACTS conflict: flag in 'uncertainties' with math. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Path A Analysis: Agricultural Demand Surge (monsoon irrigation, forecasting gaps)
+3. Path B Analysis: Transmission Infrastructure (400/220kV weaknesses, thermal limits)
+4. Path C Analysis: Regulatory and Coordination Failures (interstate discipline, NLDC)
+5. Cross-Path Comparison and Contradictions
+6. Synthesized Multi-Factor Explanation (with evidence weighting)
+7. Day 1 to Day 2 Escalation Timeline
+8. Three Regional Grids Cascade Analysis
+9. Interstate Overdraw Quantification (UP/Punjab)
+10. Infrastructure Investment Priorities
+11. Key Lessons Learned
+12. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

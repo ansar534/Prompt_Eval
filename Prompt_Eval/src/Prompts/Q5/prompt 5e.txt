@@ -1,0 +1,38 @@
+5E. ReAct Prompting
+
+UK 2019 Near-Miss [KEY FACTS: 1,378MW lost in 5min, Hornsea 737MW + Little Barford 641MW, 48.8Hz, 1.1M customers, £60M]. 
+
+ReAct:
+
+THOUGHT 1: Why did both plants trip simultaneously?
+ACTION 1: Examine lightning strike impact on Hornsea offshore wind protection + Little Barford gas plant response.
+OBSERVATION 1: [Identify dual-trip mechanism and RoCoF sensitivity with timestamp]
+
+THOUGHT 2: How fast did frequency drop in 5 minutes?
+ACTION 2: Calculate rate-of-change-of-frequency (RoCoF) from 1,378MW loss and system inertia level.
+OBSERVATION 2: [Quantify Hz/s and nadir 48.8Hz with timeline]
+
+THOUGHT 3: Why did load shedding occur?
+ACTION 3: Assess under-frequency relay activation at <49Hz and insufficient fast frequency response.
+OBSERVATION 3: [Calculate response deficit MW vs. Grid Code]
+
+Continue 5-7 loops with 5-minute timeline. Base analysis ONLY on provided facts. For each MW/Hz figure: cite specific KEY FACT verbatim. If calculating: show formula. If uncertain, output 'VERIFY_SOURCE' in uncertainties array. Consider technical, market, AND institutional factors equally. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Reasoning Process (showing all THOUGHT-ACTION-OBSERVATION loops sequentially)
+3. Synthesis of Findings from Reasoning Loops
+4. Lightning Strike and Dual-Trip Mechanism (Hornsea 737MW + Little Barford 641MW)
+5. Protection Relay Analysis (RoCoF sensitivity, trip logic)
+6. 5-Minute Frequency Excursion Timeline (Hz/s calculation, 48.8Hz nadir)
+7. Rate-of-Change-of-Frequency (RoCoF) Assessment
+8. Frequency Response Deficit Analysis (MW vs. Grid Code requirements)
+9. Under-Frequency Load Shedding (1.1M customers, relay settings)
+10. Low-Inertia System Impact
+11. Root Cause Integration
+12. Enhanced Frequency Response Service Specifications
+13. Grid Code and Protection Setting Recommendations
+14. Key Lessons Learned
+15. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

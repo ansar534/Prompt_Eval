@@ -1,0 +1,29 @@
+Query 3: California 2020 Rolling Blackouts
+
+3A. Chain-of-Thought (CoT)
+
+California 2020 Rolling Blackouts [KEY FACTS: 800,000+ customers affected, 3,600MW peak shortfall on Aug 14-15, extreme heat (110°F+), solar ramped down at evening peak, limited battery storage (250MW statewide), inadequate resource planning, economic loss $1.5B]. 
+
+Analyze step-by-step: 
+Step 1) Identify demand-supply mismatch magnitude and timing. 
+Step 2) Calculate solar ramping contribution to evening 3,600MW shortfall. 
+Step 3) Quantify import/reserve margin deficiencies. 
+Step 4) Assess resource adequacy planning gaps with RA capacity vs. actual need. 
+Step 5) Synthesize forecasting and market failures with evidence. 
+
+Base analysis ONLY on provided facts. For each MW/cost figure: cite specific KEY FACT verbatim in 'evidence' field. If calculating: show formula. If uncertain about any metric, output 'VERIFY_SOURCE' in uncertainties array. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Demand-Supply Mismatch Analysis (timing, magnitude)
+3. Solar Ramping and Duck Curve Impact
+4. Battery Storage Inadequacy (250MW vs. 3,600MW shortfall)
+5. Import and Reserve Margin Assessment
+6. Resource Adequacy Planning Gaps (RA targets vs. actual)
+7. Market and Forecasting Failures
+8. Root Cause Synthesis
+9. Storage and Flexibility Recommendations
+10. Key Lessons Learned
+11. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.

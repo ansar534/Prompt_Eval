@@ -1,0 +1,34 @@
+4D. Few-Shot Prompting
+
+Analyze using this pattern:
+
+EXAMPLE 1 - Brazil 2011 Transmission: 
+Factors: [500kV line faults, 15GW isolated, protection cascades]. 
+Impact: 53M people, 4-12hrs. 
+Lessons: [Protection coordination, transmission redundancy].
+
+EXAMPLE 2 - Turkey 2015: 
+Factors: [Generation trip, transmission overload, frequency collapse to 47.6Hz]. 
+Impact: 76M people, 10GW deficit, 6-12hrs. 
+Lessons: [Frequency response reserves, under-frequency load shedding].
+
+NOW ANALYZE: India 2012 Grid Collapse [KEY FACTS: 670M people, 62,000MW Day 2 collapse, interstate overdraws UP/Punjab, monsoon irrigation surge, transmission violations, 2-day cascade, $1.2B]. 
+
+Follow pattern with MW-quantified regional coordination and infrastructure lessons. Base analysis ONLY on provided facts. For each MW figure: cite which KEY FACT supports it. If extrapolating: show calculation. Consider technical, market, AND institutional factors equally. Avoid single-cause explanations. 
+
+Provide a comprehensive analysis report with the following structure:
+1. Executive Summary
+2. Comparative Context (Brazil 2011 and Turkey 2015 transmission cascades)
+3. India Event Analysis Following Example Pattern:
+   - Primary Factors (with MW quantification)
+   - Impact Assessment (people affected, duration, economic cost)
+   - Lessons Learned (specific, actionable)
+4. Cross-Event Pattern Recognition (transmission weaknesses, cascades, frequency)
+5. Day 1-Day 2 Timeline (48,000MW → 62,000MW escalation)
+6. Unique Scale Factors (670M people, 9% world population)
+7. Regional Coordination Challenges
+8. Transmission Infrastructure Priorities
+9. Synthesized Recommendations
+10. Uncertainties and Data Limitations
+
+Write in clear, professional prose with proper paragraphs and sections. Use headings and subheadings. Include all quantitative data with proper citations to the KEY FACTS. Maximum length: 800 words.
