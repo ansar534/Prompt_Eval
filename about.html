@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Prompt Eval</title>
+    <style>
+      :root {
+        --bg: #f5f7fb;
+        --card: #ffffff;
+        --primary: #1e3a8a;
+        --accent: #2563eb;
+        --text: #1f2937;
+        --muted: #6b7280;
+        --border: #dfe7f5;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background: linear-gradient(180deg, #eef4ff 0%, var(--bg) 100%);
+        color: var(--text);
+      }
+
+      .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 40px 20px 80px;
+      }
+
+      nav {
+        background: #0f172a;
+        color: white;
+        padding: 14px 20px;
+      }
+
+      nav .nav-inner {
+        max-width: 1100px;
+        margin: 0 auto;
+        display: flex;
+        gap: 18px;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+      }
+
+      nav a {
+        color: white;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      .brand {
+        font-size: 1.2rem;
+        letter-spacing: 0.04em;
+      }
+
+      .hero {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        padding: 28px 32px;
+        box-shadow: 0 10px 30px rgba(30, 58, 138, 0.06);
+      }
+
+      .hero h1 {
+        margin-top: 0;
+        color: var(--primary);
+        font-size: clamp(2rem, 4vw, 3rem);
+      }
+
+      .hero p {
+        font-size: 1.06rem;
+        line-height: 1.7;
+        color: var(--text);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 22px;
+        margin-top: 28px;
+      }
+
+      .card {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        padding: 22px;
+      }
+
+      .card h2 {
+        margin-top: 0;
+        color: var(--primary);
+        font-size: 1.25rem;
+      }
+
+      .card p, .card li {
+        color: var(--text);
+        line-height: 1.7;
+      }
+
+      ul {
+        margin: 0;
+        padding-left: 18px;
+      }
+
+      code {
+        background: #eff6ff;
+        border: 1px solid #dbeafe;
+        padding: 2px 8px;
+        border-radius: 6px;
+        font-size: 0.95rem;
+      }
+
+      .cta {
+        display: inline-block;
+        margin-top: 18px;
+        padding: 12px 18px;
+        border-radius: 10px;
+        background: var(--accent);
+        color: white;
+        text-decoration: none;
+        font-weight: 700;
+      }
+
+      footer {
+        margin-top: 32px;
+        color: var(--muted);
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <div class="nav-inner">
+        <div class="brand">Prompt Eval</div>
+        <div>
+          <a href="README.md">README</a>
+          <a href="about.html">About</a>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container">
+      <section class="hero">
+        <h1>About Prompt Eval</h1>
+        <p>
+          Prompt Eval is a lightweight Python project designed to evaluate the performance of
+          different Large Language Models using a curated set of prompt files. It reads prompts,
+          sends them to selected providers such as Gemini and Groq, and saves the generated outputs
+          as PDF documents for review and comparison.
+        </p>
+      </section>
+
+      <section class="grid">
+        <article class="card">
+          <h2>What this project does</h2>
+          <p>
+            The repo organizes prompts into numbered folders such as Q1, Q2, and Q3, loads each
+            prompt text, invokes an AI model, and captures the result in an output folder. This makes
+            it easy to compare model behavior across the same set of questions.
+          </p>
+        </article>
+
+        <article class="card">
+          <h2>How it works</h2>
+          <ul>
+            <li>Reads prompt files from the project prompt directories.</li>
+            <li>Loads model configuration from YAML files under the config folder.</li>
+            <li>Runs the prompt through Gemini or Groq clients.</li>
+            <li>Converts the generated responses into PDF files for saving and review.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h2>Core technologies</h2>
+          <ul>
+            <li>Python 3</li>
+            <li>LangChain</li>
+            <li>Google Generative AI</li>
+            <li>Groq API</li>
+            <li>ReportLab for PDF generation</li>
+            <li>YAML for configuration</li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="card" style="margin-top: 28px;">
+        <h2>Quick start</h2>
+        <p>Install dependencies:</p>
+        <p><code>pip install -r requirements.txt</code></p>
+        <p>Set your environment keys, then run:</p>
+        <p><code>python src/main.py</code></p>
+        <p>The project writes generated outputs to folders such as:</p>
+        <p><code>output/gemini/</code> and <code>output/groq/</code></p>
+      </section>
+
+      <a class="cta" href="README.md">View the README</a>
+      <footer>Prompt Eval — AI prompt evaluation and PDF output generation.</footer>
+    </main>
+  </body>
+</html>
