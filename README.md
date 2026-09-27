@@ -97,7 +97,11 @@ This project is designed for prompt evaluation and model comparison. It helps an
 - How does output quality differ between providers?
 - How can generated reasoning or responses be archived for review?
 
-See [about.html](about.html) for a browser-friendly project summary.
+See [about.html](about.html) for a browser-friendly project summary and [index.html](index.html) for the GitHub Pages-style landing page.
+
+## GitHub Pages
+
+The static project page is available in [index.html](index.html). You can publish it through GitHub Pages by enabling Pages for the repository and selecting the main branch / root folder.
 
 ## License
 

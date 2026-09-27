@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prompt Eval | GitHub Page</title>
+    <style>
+      :root {
+        --bg: #f8fafc;
+        --card: #ffffff;
+        --primary: #1d4ed8;
+        --dark: #0f172a;
+        --text: #1e293b;
+        --muted: #64748b;
+        --border: #dfe7f5;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background: linear-gradient(180deg, #eff6ff 0%, var(--bg) 100%);
+        color: var(--text);
+      }
+
+      .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 40px 20px 80px;
+      }
+
+      nav {
+        background: var(--dark);
+        color: white;
+      }
+
+      nav .inner {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 16px 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+
+      nav a {
+        color: white;
+        text-decoration: none;
+        font-weight: 700;
+        margin-left: 16px;
+      }
+
+      .hero {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 20px;
+        padding: 40px 32px;
+        box-shadow: 0 12px 30px rgba(30, 64, 175, 0.08);
+      }
+
+      .hero h1 {
+        margin: 0 0 14px;
+        font-size: clamp(2.2rem, 5vw, 4rem);
+        color: var(--primary);
+      }
+
+      .hero p {
+        color: var(--text);
+        font-size: 1.08rem;
+        line-height: 1.8;
+        max-width: 760px;
+      }
+
+      .actions {
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+        margin-top: 20px;
+      }
+
+      .btn {
+        display: inline-block;
+        padding: 12px 18px;
+        border-radius: 10px;
+        text-decoration: none;
+        font-weight: 700;
+      }
+
+      .btn.primary {
+        background: var(--primary);
+        color: white;
+      }
+
+      .btn.secondary {
+        background: #e2e8f0;
+        color: var(--dark);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 20px;
+        margin-top: 28px;
+      }
+
+      .card {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 24px;
+      }
+
+      .card h3 {
+        margin-top: 0;
+        color: var(--dark);
+      }
+
+      .card p, .card li {
+        color: var(--text);
+        line-height: 1.7;
+      }
+
+      ul {
+        margin: 0;
+        padding-left: 18px;
+      }
+
+      footer {
+        margin-top: 30px;
+        text-align: center;
+        color: var(--muted);
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <div class="inner">
+        <div>Prompt Eval</div>
+        <div>
+          <a href="index.html">Home</a>
+          <a href="about.html">About</a>
+          <a href="README.md">README</a>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container">
+      <section class="hero">
+        <h1>Prompt Eval</h1>
+        <p>
+          A lightweight AI prompt-evaluation project for comparing model responses across providers.
+          It reads prompt files, runs them through Gemini and Groq, and exports the outputs as PDF
+          documents for review and comparison.
+        </p>
+
+        <div class="actions">
+          <a class="btn primary" href="about.html">About the project</a>
+          <a class="btn secondary" href="README.md">Read the README</a>
+        </div>
+      </section>
+
+      <section class="grid">
+        <article class="card">
+          <h3>What it does</h3>
+          <p>
+            Prompt Eval helps researchers, developers, and teams compare how different LLMs answer
+            the same set of questions.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3>How it works</h3>
+          <ul>
+            <li>Loads prompt files from question folders</li>
+            <li>Uses YAML config for model settings</li>
+            <li>Runs prompts through Gemini and Groq</li>
+            <li>Exports results as PDFs for comparison</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h3>Tech stack</h3>
+          <ul>
+            <li>Python</li>
+            <li>LangChain</li>
+            <li>Gemini API</li>
+            <li>Groq API</li>
+            <li>ReportLab</li>
+          </ul>
+        </article>
+      </section>
+
+      <footer>
+        Built for AI model comparison and prompt evaluation.
+      </footer>
+    </main>
+  </body>
+</html>
